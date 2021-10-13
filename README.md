@@ -30,3 +30,7 @@
 
 [合并两个有序数组](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
+# 每日一题
+
+[1.Fizz Buzz](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/Fizz%20Buzz.md)
+
