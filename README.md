@@ -40,8 +40,19 @@
 
 [买卖股票的最佳时机](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
 
+# 动态规划
+
+## day1
+
+[斐波那契数](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.md)
+
+[第 N 个泰波那契数](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%20N%20%E4%B8%AA%E6%B3%B0%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.md)
+
 # 每日一题
 
 [1.Fizz Buzz](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/Fizz%20Buzz.md)
 
 [2.山峰数组的顶部](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/%E5%B1%B1%E5%B3%B0%E6%95%B0%E7%BB%84%E7%9A%84%E9%A1%B6%E9%83%A8.md)
+
+
+
