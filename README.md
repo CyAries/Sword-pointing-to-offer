@@ -16,9 +16,9 @@
 
 ## day3
 
-替换空格
+[替换空格](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E5%89%91%E6%8C%87offer/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
 
-II. 左旋转字符串
+[II. 左旋转字符串](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E5%89%91%E6%8C%87offer/II.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 # 数据结构
 
@@ -36,12 +36,12 @@ II. 左旋转字符串
 
 ## day3
 
-两个数组的交集 II
+[两个数组的交集 II](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.md)
 
-买卖股票的最佳时机
+[买卖股票的最佳时机](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
 
 # 每日一题
 
 [1.Fizz Buzz](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/Fizz%20Buzz.md)
 
-2.山峰数组的顶部
+[2.山峰数组的顶部](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/%E5%B1%B1%E5%B3%B0%E6%95%B0%E7%BB%84%E7%9A%84%E9%A1%B6%E9%83%A8.md)
