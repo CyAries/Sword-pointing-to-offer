@@ -1,4 +1,4 @@
-## 包含min函数的栈
+## [包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)
 
 题目
 
