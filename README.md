@@ -78,5 +78,5 @@
 
 [4.两数相加](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
 
-
+[5.搜索旋转排序数组](https://github.com/copy1996/Sword-pointing-to-offer/blob/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 
